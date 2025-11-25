@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../context"
+		},
+		{
+			"path": "../hooks"
+		},
+		{
+			"path": "../locales"
+		},
+		{
+			"path": "../src"
+		}
+	]
+}

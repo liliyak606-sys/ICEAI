@@ -1,0 +1,167 @@
+{
+  "presentationUrl": "https://github.com/liliyak606-sys/ICEAI/raw/main/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%98%D0%98%20ICE_%20%D0%B6%D0%B8%D0%B2%D0%BE%D0%B8%CC%86%20%D1%81%D1%82%D1%80%D0%B0%D0%B6%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20%D0%90%D0%BD%D0%B3.pdf",
+  "header": {
+    "nav": {
+      "whyNow": "Why Now",
+      "what": "What It Does",
+      "why": "Why ICE",
+      "team": "Team"
+    },
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title_line1": "ICE AI",
+    "title_line2": "The Living Server Guardian",
+    "subtitle": "Intelligence that protects.\nA system that lives.",
+    "cta": {
+      "download": "Download Presentation",
+      "contact": "Contact Us"
+    }
+  },
+  "whyNow": {
+    "title": "Why Now? The Tipping Point of Cyber Warfare",
+    "subtitle": "The digital landscape has evolved. Threats are smarter, faster, and relentless. Yesterday's solutions are no longer enough.",
+    "reasons": [
+      {
+        "title": "Exponential Threat Growth",
+        "description": "Attacks are now automated, scaling globally in minutes and bypassing traditional signature-based defenses with ease."
+      },
+      {
+        "title": "Human Limitations",
+        "description": "Security teams are overwhelmed by alert fatigue. Burnout is high, and critical response times are measured in hours or days, not seconds."
+      },
+      {
+        "title": "The Cost of Failure",
+        "description": "A single breach means more than just financial loss. It's the loss of data, customer trust, and competitive advantage."
+      }
+    ]
+  },
+  "whatIsIce": {
+    "title": "What is ICE AI?",
+    "subtitle": "It's not just a tool. It's a living, self-learning organism inside your server, operating in two key modes:",
+    "guardian": {
+      "title": "Autonomous Guardian",
+      "subtitle": "Continuous 24/7 Protection",
+      "features": [
+        "Analyzes system behavior, creating a digital 'fingerprint' of normalcy.",
+        "Instantly reacts to anomalies, preventing incidents before they start.",
+        "Independently writes and executes code to eliminate threats.",
+        "Turns passive monitoring into <span class=\"text-white font-semibold\">active defense</span>."
+      ]
+    },
+    "assistant": {
+      "title": "Intelligent Assistant",
+      "subtitle": "Your personal DevOps genius",
+      "description": "Forget complex commands. Communicate with your server in plain language:",
+      "examples": [
+        "Deploy a staging environment for the new web app",
+        "Find and close all unused ports",
+        "Create a database backup and encrypt it"
+      ]
+    }
+  },
+  "breakthrough": {
+    "title": "Beyond Automation. Towards Cognition.",
+    "subtitle": "Introducing a new paradigm: Cognitive Cyber Defense.",
+    "stats": [
+      {
+        "prefix": "<",
+        "value": 0.1,
+        "suffix": "s",
+        "description": "Threat Response Time"
+      },
+      {
+        "prefix": "",
+        "value": 1,
+        "suffix": "M+",
+        "description": "Incidents Handled Per Month"
+      },
+      {
+        "prefix": "",
+        "value": 99.9,
+        "suffix": "%",
+        "description": "Automated Vulnerability Remediation"
+      }
+    ]
+  },
+  "whyIce": {
+    "title": "Why is our AI the future?",
+    "cards": [
+      {
+        "title": "It Predicts, Not Just Reacts",
+        "description": "Unlike traditional systems, ICE doesn't wait for a failure. It analyzes micro-deviations to predict and prevent the problem."
+      },
+      {
+        "title": "Speed Beyond Human Capability",
+        "description": "Incident response takes seconds, not hours. ICE operates around the clock, without breaks or human error."
+      },
+      {
+        "title": "Self-Learning and Adaptation",
+        "description": "The system constantly evolves by learning your infrastructure. The longer ICE runs, the smarter and more effective it becomes."
+      }
+    ]
+  },
+  "backedByIntelligence": {
+    "title": "Backed by Intelligence",
+    "subtitle": "ICE AI operates on three core principles that mimic biological intelligence.",
+    "principles": [
+      {
+        "title": "Digital Homeostasis",
+        "description": "Like a living organism, ICE maintains the system's equilibrium, instantly detecting and correcting imbalances that signal a threat."
+      },
+      {
+        "title": "Predictive Adaptation",
+        "description": "It doesn't just learn from past attacks; it models future threats based on global data and evolves its defenses preemptively."
+      },
+      {
+        "title": "Autonomous Remediation",
+        "description": "ICE is empowered to act, writing and executing its own secure code to patch vulnerabilities in real-time."
+      }
+    ]
+  },
+  "whoIsItFor": {
+    "title": "Who is ICE AI for?",
+    "description": "Our solution blurs the lines between roles, making server management accessible and secure for everyone.",
+    "targets": [
+      {
+        "title": "For DevOps & System Administrators",
+        "description": "Automate routine tasks, delegate complex jobs, and focus on development, not firefighting."
+      },
+      {
+        "title": "For Business Owners & Startups",
+        "description": "Cut costs on expensive specialists and minimize downtime risks, ensuring the stability of your project."
+      },
+      {
+        "title": "For IT Departments & Companies",
+        "description": "Enhance security levels, optimize performance, and gain complete control over your infrastructure."
+      }
+    ]
+  },
+  "revolutionCta": {
+    "title": "Join the Revolution",
+    "description": "All the technical details, neural network principles, market analysis, and financial model are waiting for you in the full presentation. Discover how we're changing the game.",
+    "button": "View Full Presentation"
+  },
+  "team": {
+    "title": "Trust, Transparency & Our Team",
+    "description": "In an autonomous system, trust is paramount. We are committed to building a transparent and reliable AI. Our team combines deep expertise in AI and security with a clear vision for the future of server management. Our combined experience in IT is <span class=\"text-cyan-400 font-bold\">over 7 years</span>, of which <span class=\"text-purple-400 font-bold\">more than 5 years</span> have been dedicated to developing AI solutions.",
+    "members": [
+      {
+        "name": "Ilya Lazarev",
+        "title": "Chief Technology Officer",
+        "description": "10 years in IoT and Python, 2 years in AI and Big Data. Expert in creating scalable, high-load systems. MCP."
+      },
+      {
+        "name": "Liliya Khablo",
+        "title": "Creative Director",
+        "description": "2 years in digital design, UX/UI, with a focus on creating intuitive AI interfaces. Transforms complex technologies into elegant solutions."
+      }
+    ]
+  },
+  "footer": {
+    "title": "Ready to explore the future?",
+    "description": "We are creating a future where artificial intelligence becomes a reliable guardian of your digital assets. Let's talk about how we can achieve this together.",
+    "cta_contact": "Message on WhatsApp",
+    "copyright": "© {year} ICE AI. All rights reserved."
+  }
+}
